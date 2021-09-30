@@ -9,7 +9,7 @@ The project is open to new ideas and improvements, contact me if you want to con
 ## Compile
 At the moment I have created it for linux, but you can modify it for your own use.
 
-Simply clone the repo and run `nimble build` to create the binary
+Simply clone the repo, make a cd to it and run `nimble build` to create the binary
 
 ## Usage
 ```
