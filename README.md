@@ -36,4 +36,4 @@ Options:
 
 ---
 
-Acknowledgements to [Jusepe](https://twitter.com/Jusepe_it)
+Acknowledgements to [Jusepe](https://github.com/itasahobby)
