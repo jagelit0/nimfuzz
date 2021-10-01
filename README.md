@@ -33,3 +33,7 @@ Options:
 ## Contact
 
 - [Twitter](https://twitter.com/jagelit0) 
+
+---
+
+Acknowledgements to [Jusepe](https://twitter.com/Jusepe_it)
